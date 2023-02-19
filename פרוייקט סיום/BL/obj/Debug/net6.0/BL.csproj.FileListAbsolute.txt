@@ -1,0 +1,5 @@
+H:\פרוייקט סיום\פרוייקט סיום\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+H:\פרוייקט סיום\פרוייקט סיום\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט סיום\פרוייקט סיום\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+H:\פרוייקט סיום\פרוייקט סיום\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+H:\פרוייקט סיום\פרוייקט סיום\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
